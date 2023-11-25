@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋<img src="https://media.giphy.com/media/your-gif-url-here.gif" alt="Animated Emoji" width="40" height="40"/>
-, I'm ACHRAF ZAROUKI</h1>
+<h1 align="center">Hi 👋, I'm ACHRAF ZAROUKI</h1>
 <h3 align="center">Centers Junior Developer at NTT DATA | Pursuing master's in computer engineering (2nd Year M2I)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="achraftraf" /> </p>
