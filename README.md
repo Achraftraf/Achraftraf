@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ACHRAF ZAROUKI</h1>
+<h1 align="center"👋🙂👋 Hello! I'm ACHRAF ZAROUKI 👋🙂👋</h1>
 <h3 align="center">Centers Junior Developer at NTT DATA | Pursuing master's in computer engineering (2nd Year M2I)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="achraftraf" /> </p>
@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
 
-- <p>
-<a href="https://www.zarouki-achraf.me/" target="blank">
-    <img align="center" src="https://fontawesome.com/icons/portfolio?style=solid" alt="Portfolio" height="30" width="40" />
-  </a></p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
