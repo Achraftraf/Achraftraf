@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Owner avatar angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
+- 🔭 I’m currently working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,7 +17,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/achraf zarouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf zarouki" height="30" width="40" /></a>
 <a href="https://instagram.com/zaroukiachraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaroukiachraf" height="30" width="40" /></a>
-<a href="/https://www.zarouki-achraf.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.zarouki-achraf.me/" height="30" width="40" /></a>
+<a href="https://www.zarouki-achraf.me/" target="blank">
+    <img align="center" src="https://fontawesome.com/icons/portfolio?style=solid" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
