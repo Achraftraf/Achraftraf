@@ -4,16 +4,10 @@
 
 ## Overview
 
-<table>
-  <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=achraftraf" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="margin: 0 15px;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=achraftraf" alt="GitHub Trophies" style="margin: 0 15px;"/>
+</p>
 
 
 ## Current Work
