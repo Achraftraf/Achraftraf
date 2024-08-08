@@ -8,10 +8,6 @@
 ## Current Work
 - 🔭 Working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
 
-## Blogs
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/achraf-zarouki" target="_blank">
@@ -21,7 +17,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.zarouki-achraf.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=website&logoColor=white" alt="Website" />
   </a>
 </p>
 
