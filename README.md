@@ -17,13 +17,12 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.zarouki-achraf.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=website&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
 </p>
 
-
 ## Languages and Tools
-<p>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
@@ -70,4 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=achraftraf&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achraftraf&" alt="Streak Stats" width="400" />
 </p>
-
