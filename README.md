@@ -13,9 +13,18 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/achraf-zarouki)
-- [Instagram](https://instagram.com/zaroukiachraf)
-- [Portfolio](https://www.zarouki-achraf.me/)
+<p align="center">
+  <a href="https://linkedin.com/in/achraf-zarouki" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/zaroukiachraf" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.zarouki-achraf.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 
 ## Languages and Tools
 <p>
