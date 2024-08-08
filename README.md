@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/achraf zarouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf zarouki" height="30" width="40" /></a>
 <a href="https://instagram.com/zaroukiachraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaroukiachraf" height="30" width="40" /></a>
  <a href="https://www.zarouki-achraf.me/" target="_blank">
-    <img align="center" src="https://img.icons8.com/material-outlined/24/0000ff/domain.png" alt="Portfolio" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/material-outlined/24/0033a0/domain.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
 
