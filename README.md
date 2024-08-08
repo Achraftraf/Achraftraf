@@ -2,8 +2,19 @@
 
 ## Junior Developer at NTT DATA | M2I Master's Student in Computer Engineering
 
-![Profile Views](https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=achraftraf)
+## Overview
+
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=achraftraf" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
 
 ## Current Work
 - 🔭 Working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
