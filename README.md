@@ -21,7 +21,10 @@
 </td>
 <td width="50%" align="center">
 
-<div class="tenor-gif-embed" data-postid="7963714" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/programming-computer-typing-gif-7963714">Programming Computer GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/images/20b16b3b3c2c85b4f9a5e8c02a541cf4/tenor.gif" width="450" alt="Programming Computer GIF">
+</p>
+
 </td>
 </tr>
 </table>
