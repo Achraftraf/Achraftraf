@@ -16,7 +16,7 @@
 - 🔭 Currently working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
 - 🌱 Passionate about exploring new technologies
 - 💬 Feel free to ask me about **Angular, Python, or Renewable Energy**
-- 📫 You can reach me at **achraf.zarouki@example.com**
+- 📫 You can reach me at **achraf.zarouki20@gmail.com**
 
 </td>
 <td width="50%" align="center">
