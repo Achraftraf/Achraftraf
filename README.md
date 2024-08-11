@@ -9,11 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="margin: 0 15px;"/>
-</p>
-
-
 <table align="center">
 <tr>
 <td width="50%" align="left">
