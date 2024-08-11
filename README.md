@@ -21,8 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://tenor.com/view/programming-computer-typing-gif-7963714)">
-
+   <img align="center" alt="Coding" width="450" src="https://media.tenor.com/images/20b16b3b3c2c85b4f9a5e8c02a541cf4/tenor.gif">
 </td>
 </tr>
 </table>
