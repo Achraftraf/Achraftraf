@@ -23,7 +23,7 @@
 <td width="50%" align="center">
 
 
-  <img align="center" alt="Coding" width="450" src="/image/ach3.gif">
+  <img align="center" alt="Coding" width="450" src="/images/ach3.gif">
 </p>
 
 
