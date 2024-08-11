@@ -1,6 +1,8 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-# Achraf Zarouki 👋
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="Profile Image">
+</p>
 
+<h1 align="center">Hi 👋, I'm Achraf Zarouki</h1>
 ## Junior Developer at NTT DATA | M2I Master's Student in Computer Engineering
 
 ## Overview
