@@ -22,8 +22,8 @@
 </td>
 <td width="50%" align="center">
 
- <p align="center">
-  <img align="center" alt="Coding" width="450" src="./image/ach3.gif">
+
+  <img align="center" alt="Coding" width="450" src="/image/ach3.gif">
 </p>
 
 
