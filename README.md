@@ -3,9 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Achraf Zarouki</h1>
-## Junior Developer at NTT DATA | M2I Master's Student in Computer Engineering
+<h3 align="center">Junior Developer at NTT DATA | M2I Master's Student in Computer Engineering</h3>
 
-## Overview
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achraftraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="margin: 0 15px;"/>
