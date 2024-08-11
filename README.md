@@ -10,8 +10,23 @@
 </p>
 
 
-## Current Work
-- 🔭 Working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
+<table align="center">
+<tr>
+<td width="50%" align="left">
+
+- 🔭 Currently working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
+- 🌱 Passionate about exploring new technologies
+- 💬 Feel free to ask me about **Angular, Python, or Renewable Energy**
+- 📫 You can reach me at **achraf.zarouki@example.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+</td>
+</tr>
+</table>
 
 ## Connect with Me
 <p align="center">
